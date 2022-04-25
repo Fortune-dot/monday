@@ -10,7 +10,7 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" />
     <link href="" rel="stylesheet" />
     <!-- CSS only -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" ">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script
       type=" text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
     </script>
@@ -106,7 +106,7 @@ if (isset($_POST['submit'])) {
     );
     $headers = array(
         'Content-Type: application/x-www-form-urlencoded',
-        'ApiKey: Me3s8tLM8vW' // Replace with your api key
+        'ApiKey: p77z9WYLZah' // Replace with your api key
     );
     $info = http_build_query($data);
 
